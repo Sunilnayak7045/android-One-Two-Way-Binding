@@ -7,6 +7,7 @@ One-Two-Binding :
 -> In one-way binding, the data flow is one-directional.
 
 dependencies:
+
 android {
 
 
