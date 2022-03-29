@@ -9,11 +9,14 @@ One-Two-Binding :
 dependencies:
 android {
 
+
 .
 .
-buildFeatures {
+buildFeatures 
+{
     dataBinding true
    }
+   
 }
 
 
