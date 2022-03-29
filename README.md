@@ -1,4 +1,3 @@
-#One-Way-Binding 
 
 One-Way-Binding : 
 
