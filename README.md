@@ -1,10 +1,17 @@
-
+#One-Way-Binding 
 
 One-Way-Binding : 
 
 -> Updating the views from the data source is a simple one-way binding. In that case, you'll only access data from the data source and update the layout.
 
 -> In one-way binding, the data flow is one-directional. It’s named one-way databinding because there’s only one communication way: from observable to view.
+
+
+Summary on one-way and two-way databinding
+
+one-way -> "@{}"
+
+two-way -> "@={}"
 
 dependencies:
 
