@@ -1,6 +1,6 @@
-# android-One-Two-Way-Binding
 
-One-Two-Binding : 
+
+One-Way-Binding : 
 
 -> Updating the views from the data source is a simple one-way binding. In that case, you'll only access data from the data source and update the layout.
 
